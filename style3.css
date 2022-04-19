@@ -1,0 +1,44 @@
+.nav {
+  font-size: 16px;
+  color: white;
+
+}
+
+.nav-link {
+  padding: 0 20px;
+}
+
+.d-flex {
+  background-color: #3c3c3c;
+
+}
+
+button {
+  font-size: 0.8rem;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  background-color: tan;
+  color: white;
+  padding: 12px;
+}
+
+#home {
+  background-image: url("https://s.yimg.com/ny/api/res/1.2/fpZ1CAxF.Pndv90XBz1tlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDM-/https://s.yimg.com/uu/api/res/1.2/fsTlNHHkdiSjGyMEdHQLMg--~B/aD0xMDAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_SG/News/e27/c74d364eb8a86c29c0ceb86129a2166e.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+header {
+  font-size: 40px;
+  color: black;
+}
+
+main {
+  color: tan;
+}
